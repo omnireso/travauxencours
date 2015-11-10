@@ -3,6 +3,5 @@
 Welcome to my Page
 ==================
 
-1.Create projet
-2.Sell it
-3.Rule the world
+Travaux en cours sur site web 
+Espace de liaison / synchronisation
