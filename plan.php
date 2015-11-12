@@ -178,6 +178,10 @@
 
 
 <li><a href="http://www.philmorel.com/tableaux-fleurs.php" hreflang="fr">tableaux fleurs</li>
+<li><a href="http://www.philmorel.com/iris.php" hreflang="fr">iris</li>
+<li><a href="http://www.philmorel.com/renoncules.php" hreflang="fr">renoncules</li>
+<li><a href="http://www.philmorel.com/tulipes.php" hreflang="fr">tulipes</li>
+<li><a href="http://www.philmorel.com/glaieuls.php" hreflang="fr">glaieuls</li>
 
 
 
@@ -198,8 +202,10 @@
 
 
 <li><a href="http://www.philmorel.com/tableaux-nus.php" hreflang="fr">Portraits et nus</a></li>
-
-
+<li><a href="http://www.philmorel.com/femme-fatale.php" hreflang="fr">Femme fatale</a></li>
+<li><a href="http://www.philmorel.com/langueur.php" hreflang="fr">Langueur</a></li>
+<li><a href="http://www.philmorel.com/nu.php" hreflang="fr">Nu féminin</a></li>
+<li><a href="http://www.philmorel.com/pensive.php" hreflang="fr">Femme pensive</a></li>
 
 
 
