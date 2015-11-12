@@ -30,8 +30,8 @@
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
-<link rel="canonical" href="http://www.philmorel.com/sous-bois.php" />
+<link rel="next" href="http://www.philmorel.com/glaieuls.php" />
+<link rel="canonical" href="http://www.philmorel.com/tableaux-fleurs.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">

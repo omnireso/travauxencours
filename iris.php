@@ -29,8 +29,8 @@
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
-<link rel="canonical" href="http://www.philmorel.com/sous-bois.php" />
+<link rel="next" href="http://www.philmorel.com/renoncules.php" />
+<link rel="canonical" href="http://www.philmorel.com/iris.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -103,7 +103,7 @@
                
                           
   <article>
-  <p>Sauterre fait partie de la thématique</p>
+  <p>Iris fait partie de la thématique</p>
   <h3><a href="tableaux-fleurs.php">Fleurs et natures mortes</a></h3><p>Parmi la galerie de peintures de l'artiste amateur Philippe Morel</p>
     
 
