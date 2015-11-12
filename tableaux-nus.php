@@ -95,8 +95,8 @@
 
 <div id="tableau-grid"><div class="tableau-cell"><figure><a href="femme-fatale.php"><img width="290" height="210" src="nus/femme-fatale-2008_v.jpg" alt="peinture de femme fatale" /></a></figure></div><div class="tableau-cell"><figure><a href="pensive.php"><img width="290" height="210" src="nus/pensive_v.jpg" alt="tableau de femme pensive nue" /></a></figure></div></div>
 
-<div class="tableau-cell" id="colza"><figure><a href="langueur.php"><img width="290" height="210" src="nus/langueur_v.jpg" alt="peinture de femme langoureuse" /></a></div>
-<div class="tableau-cell" id="colza"><figure><a href="nu.php"><img width="290" height="210" src="nus/nu-vert_v.jpg" alt="tableau de femme nue" /></a></figure></div>
+<div class="tableau-cell"><figure><a href="langueur.php"><img width="290" height="210" src="nus/langueur_v.jpg" alt="peinture de femme langoureuse" /></a></div>
+<div class="tableau-cell"><figure><a href="nu.php"><img width="290" height="210" src="nus/nu-vert_v.jpg" alt="tableau de femme nue" /></a></figure></div>
 
 </div>
 
