@@ -25,10 +25,11 @@ Simple PHP Contact Form
     if (!hasFormValidation()) {
         $('#contact-form').submit(function () {
             var hasError = false,
-                name     = $('#form-name'),
-                mail     = $('#form-email'),
-                subject  = $('#form-assunto'),
-                message = $('#form-mensagem'),
+                nom     = $('#nom'),
+                prenom     = $('#prenom'),
+                mail     = $('#email'),
+                subject  = $('#sujet'),
+                message = $('#message'),
                 testmail = /^[^0-9][A-z0-9._%+-]+([.][A-z0-9_]+)*[@][A-z0-9_-]+([.][A-z0-9_]+)*[.][A-z]{2,4}$/,
                 $this    = $(this);
 
