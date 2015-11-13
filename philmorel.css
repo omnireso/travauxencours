@@ -1,0 +1,81 @@
+ #philmorel { height:100%; min-height:100%;
+  position:relative;}
+
+body {font-family: tahoma,arial;font-size: 1.2em;line-height: 140%}
+
+#logo h1 {display: none}
+
+nav {float:left;width:200px;height:800px;min-height:800px;}
+nav ul li {/*float:left;*/list-style:none;margin-bottom:3%;padding-top:2.8em;}
+nav ul li a {position:relative;transition: color 0.3s linear 0s;z-index:10000000;text-decoration:underline;}
+nav ul li a:hover {text-shadow:0 0 1px #000;text-decoration:none;}
+article {}
+/*.tableau-cell:empty*/ .tableau-cell {
+    -moz-outline-radius: 8px;
+    outline: 2px solid #000;
+    z-index:100;
+}
+
+main section {position:absolute;top:0;left:200px}
+
+.tableau-cell {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius,-webkit-border-radius:8px;
+    /*float:left;*/
+     display:inline-block;
+   /*  display:table-cell; */
+}
+.tableau-cell, .tableau-intro-cell, .tableau-intro-cell-hover {
+    display: -moz-box;
+   /* height: 210px; */
+    margin: 20px 10px 35px;
+   /* width: 290px; */
+    
+}
+
+figure {display:inline-block;vertical-align:middle;}
+
+figure a:hover { opacity: 0.5;
+   filter: alpha(opacity=50);      
+   zoom: 1;     }
+
+
+#tableau-grid {
+    -moz-box-flex: 5;
+    overflow: hidden;
+    text-align: center;
+    transition: opacity 100ms ease-out 0s;
+    }
+    
+    img {z-index:50}
+  /*  .main-content-w {width:1200px;height:350px;} */
+  
+main {
+  padding-bottom:100px;  margin-bottom: 1em; /* Height of the footer element */
+}
+footer {
+  width:100%;
+  height:100px;
+  position:absolute;
+  bottom:0;
+  left:0;
+  text-align: center;
+}
+  
+  .logo {padding-left:1em}
+  figcaption {display:none;}
+
+  #pied {position: absolute;width:100%;margin-top:100%;}
+  #pied #breadcrumbs p,#pied +p+p  {padding:1em;}
+ 
+
+ #philmorel {
+    padding: 10px;
+    min-height: -webkit-calc(100% - 100px);     /* Chrome */
+    min-height: -moz-calc(100% - 100px);     /* Firefox */
+    min-height: calc(100% - 100px);     /* native */
+}
+footer {
+    position: relative;
+    clear:both;
+}
