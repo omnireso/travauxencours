@@ -12,7 +12,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  <title>L'orée du bois par Philippe Morel artiste peintre amateur chamaliérois</title>
- <meta name="description" content="Tableaux de Philippe Morel intitulé l'Orée du bois">
+ <meta name="description" content="Tableau de Philippe Morel intitulé l'Orée du bois">
 <link rel="icon" href="favicon.ico" />
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">

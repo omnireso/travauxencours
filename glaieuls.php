@@ -107,7 +107,7 @@
   <h3><a href="tableaux-fleurs.php">Fleurs et natures mortes</a></h3><p>Parmi la galerie de peintures de l'artiste amateur Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="991" src="fleurs/glaieuls_b.jpg" alt="Glaieuls nature morte" /><figcaption>Glaïeuls</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="692" height="1000" src="fleurs/glaieuls_b.jpg" alt="Glaieuls nature morte" /><figcaption>Glaïeuls</figcaption></figure></div></div>
 
 
          

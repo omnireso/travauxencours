@@ -10,10 +10,9 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Pont-du-Château et l'Allier, tableau de Philippe Morel</title>
  <meta name="description" content="Une partie de la ville de Pont-du-Château (63430) qui borde la rivière Allier dans le Puy de Dôme.">
-<link rel="icon" href="favicon.ico" />
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
@@ -111,6 +110,7 @@
 <div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="848" src="auvergne/pont-du-chateau_b.jpg" alt="Pont-du-Château (63430)" /><figcaption>Pont-du-Château un matin d'hiver</figcaption></figure></div></div>
 
 
+<p>La ville de Pont du Château est également peinte une seconde fois avec une vue plus lointaine de la cité en second plan, et au premier plan des arbres et la rivière Allier : <a href="pont-chateau-printemps.php">Pont-chateau-printemps.php</a></p>
 
                               <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
                                 

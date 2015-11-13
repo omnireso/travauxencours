@@ -10,7 +10,7 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Représentation peinte de renoncules par Philippe Morel</title>
  <meta name="description" content="Tableau de fleurs renoncules jaunes vertes roses bleues dans un vase">
 <link rel="icon" href="favicon.ico" />
@@ -107,7 +107,7 @@
   <h3><a href="tableaux-fleurs.php">Fleurs et natures mortes</a></h3><p>Parmi la galerie de peintures de l'artiste amateur Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="991" src="fleurs/renoncules_b.jpg" alt="Tableaux de renoncules" /><figcaption>Renoncules de différentes couleurs</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="832" height="1000" src="fleurs/renoncules_b.jpg" alt="Tableaux de renoncules" /><figcaption>Renoncules de différentes couleurs</figcaption></figure></div></div>
 
 
          

@@ -10,10 +10,9 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Sauterre, carrière de roche abandonnée par Philippe Morel</title>
  <meta name="description" content="Tableau représentant un pierrier vers Sauterre ancienne carrière abandonnée de basalte à MANZAT 63410 en Auvergne.">
-<link rel="icon" href="favicon.ico" />
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>

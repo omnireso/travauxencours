@@ -11,9 +11,9 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Tableau de tulipes peint par Philippe Morel</title>
- <meta name="description" content="Des tulipes jaunes dans un vase au premier plan">
-<link rel="icon" href="favicon.ico" />
+ <title>Puy de Côme volcan d'Auvergne de la chaîne des puys d'Auvergne par Philippe Morel</title>
+ <meta name="description" content="Tableau du Puy de Come avec au premier plan la plaine, au second plan la forêt, eu à l'arrière-plan le Puy.">
+<link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
 <meta property="og:locale" content="fr_FR" />
@@ -29,8 +29,8 @@
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/tableaux-fleurs.php" />
-<link rel="canonical" href="http://www.philmorel.com/tulipes.php" />
+<link rel="next" href="http://www.philmorel.com/montpeyroux.php" />
+<link rel="canonical" href="http://www.philmorel.com/pont-du-chateau.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -89,12 +89,12 @@
 
 
 
- <h2><a href="tulipes.php">Tableau de tulipes</a></h2>
+ <h2><a href="puy-de-come.php">Puy de Côme</a></h2>
 
 
 <p>Détails de ce tableau</p>
-<p>Technique : huile. Support : toile. Dimensions du tableau : </p>
-<p>Disponible à la vente (<a href="contact.php?t=tulipes">Prendre contact avec l'artiste</a>)</p>
+<p>Technique : huile. Support : toile. Dimensions du tableau : 45x55</p>
+<p>Tableau disponible à la vente (<a href="contact.php?t=puydecome">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
@@ -103,13 +103,27 @@
                
                           
   <article>
-  <p>Tulipes fait partie de la thématique</p>
-  <h3><a href="tableaux-fleurs.php">Fleurs et natures mortes</a></h3><p>Parmi la galerie de peintures de l'artiste amateur Philippe Morel</p>
+  <p>Puy de Côme au pintemps fait partie de la thématique</p>
+  <h3><a href="tableaux.php">Paysages d'Auvergne</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="773" height="1000" src="fleurs/tulipes_b.jpg" alt="Tableaux de tulipes jaunes" /><figcaption>Tulipes de couleur jaune</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure>
+
+<img src="auvergne/puy-de-come_b.jpg" width="" height="" alt="Puy de Côme en Auvergne">
+
+<figcaption>Puy de Côme</figcaption></figure></div></div>
 
 
+
+                              <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
+
+   <p>La ville de Pont du Château est également peinte une seconde fois avec une vue plus en détail d'habitations aux bords de la rivière Allier : <a href="pont-du-chateau.php">Pont-du-chateau.php</a></p>
+                                
+                
+          
+      </article>
+      
+      
          
       
 
@@ -124,8 +138,8 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 galerie d'art virtuelle de Philippe Morel, artiste-peintre amateur d'Auvergne.</p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p>&copy; Philmorel.com 2015 Site personnel de l'artiste-peintre Auvergnat Philippe Morel</p>
       </div>
 
      
