@@ -11,8 +11,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
- <title>Plan du site</title>
-<link rel="icon" href="favicon.ico" />
+ <title>Plan du site Philmorel, galerie virtuelle du peintre Philippe Morel</title>
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
@@ -169,11 +168,10 @@
 <li><a href="http://www.philmorel.com/puy-de-dome.php" hreflang="fr">Puy de Dôme</a></li>
 
 
-
-
-
 <li><a href="http://www.philmorel.com/tableaux-auvergne-paysages.php" hreflang="fr">Tableaux de paysages d'Auvergne</a></li>
-
+<li><a href="http://www.philmorel.com/puy-de-come.php" hreflang="fr">Puy de Côme</li>
+<li><a href="http://www.philmorel.com/pont-chateau-printemps.php" hreflang="fr">Pont du château au printemps</li>
+<li><a href="http://www.philmorel.com/puys-come-dome.php" hreflang="fr">Puys de Côme et Dôme</li>
 
 
 
@@ -251,7 +249,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
   <p>&copy; Philmorel.com 2015 ce site présente les &#339;uvres en peinture de l'artiste-peintre amateur Philippe Morel, résidant à Chamalières en Auvergne.</p>
       </div>
 
