@@ -11,7 +11,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Plan du site</title>
+ <title>Document non trouvé erreur 404</title>
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
@@ -29,7 +29,7 @@
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/tableaux.php" />
-<link rel="canonical" href="http://www.philmorel.com/plan.php" />
+<link rel="canonical" href="http://www.philmorel.com/404.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -88,9 +88,9 @@
 
 <article>
 
- <h2><a href="plan.php">Plan</a></h2>
+ <h2>Page introuvable</h2>
 
-
+<p>Le document que vous avez demandé n'est pas (ou plus) disponible. Merci de vous diriger vers une autre page de peinture et tableaux en cliquant sur un des liens ci-dessous.</p>
 
 
 <ul>
@@ -177,10 +177,6 @@
 
 
 <li><a href="http://www.philmorel.com/tableaux-fleurs.php" hreflang="fr">tableaux fleurs</li>
-<li><a href="http://www.philmorel.com/iris.php" hreflang="fr">iris</li>
-<li><a href="http://www.philmorel.com/renoncules.php" hreflang="fr">renoncules</li>
-<li><a href="http://www.philmorel.com/tulipes.php" hreflang="fr">tulipes</li>
-<li><a href="http://www.philmorel.com/glaieuls.php" hreflang="fr">glaieuls</li>
 
 
 
@@ -201,10 +197,8 @@
 
 
 <li><a href="http://www.philmorel.com/tableaux-nus.php" hreflang="fr">Portraits et nus</a></li>
-<li><a href="http://www.philmorel.com/femme-fatale.php" hreflang="fr">Femme fatale</a></li>
-<li><a href="http://www.philmorel.com/langueur.php" hreflang="fr">Langueur</a></li>
-<li><a href="http://www.philmorel.com/nu.php" hreflang="fr">Nu féminin</a></li>
-<li><a href="http://www.philmorel.com/pensive.php" hreflang="fr">Femme pensive</a></li>
+
+
 
 
 

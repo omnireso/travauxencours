@@ -15,7 +15,7 @@
  <meta name="description" content="Tableau du Puy de Come avec au premier plan la plaine, au second plan la forêt, eu à l'arrière-plan le Puy.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -23,14 +23,14 @@
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montpeyroux.php" />
-<link rel="canonical" href="http://www.philmorel.com/pont-du-chateau.php" />
+<link rel="canonical" href="http://www.philmorel.com/puy-de-come.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -94,7 +94,7 @@
 
 <p>Détails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 45x55</p>
-<p>Tableau disponible à la vente (<a href="contact.php?t=puydecome">Prendre contact avec l'artiste</a>)</p>
+<p>Tableau disponible à la vente (<a href="contact.php">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
@@ -103,7 +103,7 @@
                
                           
   <article>
-  <p>Puy de Côme au pintemps fait partie de la thématique</p>
+  <p>Puy de Côme fait partie de la thématique</p>
   <h3><a href="tableaux.php">Paysages d'Auvergne</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
@@ -115,9 +115,7 @@
 
 
 
-                              <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-
-   <p>La ville de Pont du Château est également peinte une seconde fois avec une vue plus en détail d'habitations aux bords de la rivière Allier : <a href="pont-du-chateau.php">Pont-du-chateau.php</a></p>
+                             
                                 
                 
           
@@ -138,7 +136,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
   <p>&copy; Philmorel.com 2015 Site personnel de l'artiste-peintre Auvergnat Philippe Morel</p>
       </div>
 

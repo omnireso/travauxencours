@@ -10,13 +10,12 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Peintures de natures mortes fleurs et bouquets par Philippe Morel</title>
  <meta name="description" content="Natures Mortes et tableaux de fleurs par l'artiste peintre Auvergnat amateur Philippe Morel.">
-<link rel="icon" href="favicon.ico" />
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -24,7 +23,7 @@
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
@@ -72,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="éditeur et hebergeur du site et CGU">Mentions légales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Ã©diteur et hebergeur du site et CGU">Mentions légales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -94,9 +93,9 @@
 
 
 <div id="tableau-grid">
-<div class="tableau-cell"><figure><a href="glaieuls.php"><img width="200" height="290" src="fleurs/glaieuls_v.jpg" alt="tableaux de glaïeuls" /></a></figure></div><div class="tableau-cell"><figure><a href="bouquet-champetre-2.php"><img width="201" height="290" src="fleurs/bouquet-champetre-2_v.jpg" alt="tableau de bouquet champêtre" /></a></figure></div><div class="tableau-cell"><figure><a href=""><img width="200" height="290" src="fleurs/iris_v.jpg" alt="" /></a></figure></div></div>
+<div class="tableau-cell"><figure><a href="glaieuls.php"><img width="200" height="290" src="fleurs/glaieuls_v.jpg" alt="tableaux de glaieuls" /></a></figure></div><div class="tableau-cell"><figure><a href="bouquet-champetre-2.php"><img width="201" height="290" src="fleurs/bouquet-champetre-2_v.jpg" alt="tableau de bouquet champetre" /></a></figure></div><div class="tableau-cell"><figure><a href="iris.php"><img width="200" height="290" src="fleurs/iris_v.jpg" alt="tableau d'iris" /></a></figure></div></div>
 <div id="tableau-grid">
-<div class="tableau-cell"><figure><a href="iris.php"><img width="290" height="210" src="fleurs/iris_v.jpg" alt="tableau d'iris" /></a></figure></div><div class="tableau-cell"><figure><a href="tableau de renoncules"><img src="fleurs/renoncules_v.jpg" width="200" height="290" alt="" /></a></figure></div><div class="tableau-cell"><figure><a href="tableau de tulipes"><img src="fleurs/tulipes_v.jpg" width="200" height="290" alt="tableau de tulipes" /></a></figure></div></div>
+<div class="tableau-cell"><figure><a href="iris.php"><img width="290" height="210" src="fleurs/iris_v.jpg" alt="tableau d'iris" /></a></figure></div><div class="tableau-cell"><figure><a href="renoncules.php"><img src="fleurs/renoncules_v.jpg" width="200" height="290" alt="tableau de renoncules" /></a></figure></div><div class="tableau-cell"><figure><a href="tulipes.php"><img src="fleurs/tulipes_v.jpg" width="200" height="290" alt="tableau de tulipes" /></a></figure></div></div>
 
       
          

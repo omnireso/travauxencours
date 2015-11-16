@@ -10,24 +10,23 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
- <title>Anémones, un tableau du peintre Auvergnat Philippe Morel</title>
- <meta name="description" content="Bouquets d'anémones bleues, rouges, blanches et roses peintes par Philippe Morel">
-<link rel="icon" href="favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>AnÃ©mones, un tableau du peintre Auvergnat Philippe Morel</title>
+ <meta name="description" content="Bouquets d'anÃ©mones bleues, rouges, blanches et roses peintes par Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Tableau nature morte" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Bouquet d'anÃ©mones peint"/>
+<meta name="twitter:title" content="Peintures nautres mortes"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/agapanthes.php" />
@@ -72,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÃ©es et à venir">ActualitÃ© et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÃ©compenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="éditeur et hebergeur du site et CGU">Mentions légales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Ã©diteur et hebergeur du site et CGU">Mentions lÃ©gales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -90,30 +89,29 @@
 
 
 
- <h1><a href="anemones.php">Anémones</a></h1>
+ <h1><a href="anemones.php">AnÃ©mones</a></h1>
 
 
-<p>Détails de ce tableau</p>
+<p>DÃ©tails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 30x30</p>
-<p>Tableau réalisé en 2006. Vendu.</p>
+<p>Tableau rÃ©alisÃ© en 2006. Vendu.</p>
 <!-- Annee de creation //-->
-<!-- A ete exposé lors des Expositions //-->
+
   
   
 
                
                           
   <article>
-  <p>Anémones fait partie de la thématique</p>
+  <p>AnÃ©mones fait partie de la thÃ©matique</p>
   <h3><a href="toiles-natures-mortes.php">Natures Mortes</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="996" src="fleurs/anemones-2006_b.jpg" alt="Anémones" /><figcaption>Anémones</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="996" src="fleurs/anemones-2006_b.jpg" alt="AnÃ©mones" /><figcaption>AnÃ©mones</figcaption></figure></div></div>
 
 
 
-                              <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-                                
+                                                           
                 
           
       </article>
@@ -133,8 +131,8 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 Tableaux d'Auvergne et d'ailleurs par l'artiste Philippe Morel.</p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
+  <p>&copy; Philmorel.com 2015 Tableaux de paysages d'Auvergne et natures mortes par l'artiste Philippe Morel.</p>
       </div>
 
      

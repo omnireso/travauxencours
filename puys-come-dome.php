@@ -15,7 +15,7 @@
  <meta name="description" content="Deux puys de la chaîne des volcans d'Auvergne : le puy de Côme et le py de Dôme par Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -23,7 +23,7 @@
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
@@ -89,12 +89,12 @@
 
 
 
- <h2><a href="puys-come-dome.php">Puy de Côme</a></h2>
+ <h2><a href="puys-come-dome.php">Puy de Côme et Puy de Dôme</a></h2>
 
 
 <p>Détails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 45x55</p>
-<p>Tableau disponible à la vente (<a href="contact.php?t=puycomedome">Prendre contact avec l'artiste</a>)</p>
+<p>Tableau disponible à la vente (<a href="contact.php?">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
@@ -103,13 +103,13 @@
                
                           
   <article>
-  <p>Puy de Côme au pintemps fait partie de la thématique</p>
+  <p>Puy de Côme et Puy de Dôme fait partie de la thématique</p>
   <h3><a href="tableaux.php">Paysages d'Auvergne</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
 <div id="tableau-grid"><div class="tableau-cell"><figure>
 
-<img src="auvergne/puy-dome-come_b.jpg" width="" height="" alt="Puys de Dôme et Côme du Massif Central">
+<img src="auvergne/puys-dome-come_b.jpg" width="996" height="490" alt="Puys de Dôme et Côme du Massif Central">
 
 <figcaption>Puys de Côme Dôme</figcaption></figure></div></div>
 
@@ -117,7 +117,7 @@
 
                               <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
 
-   <p>Si la chaîne des puys vous intéresse, visualisez les autres tableaux du peintre sur les volcans d'Auvergne  : <a href="pont-du-chateau.php">Pont-du-chateau.php</a></p>
+   <p>Si la chaîne des puys vous intéresse, visualisez les autres tableaux du peintre sur les volcans d'Auvergne  </p>
                                 
                 
           
@@ -138,7 +138,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
   <p>&copy; Philmorel.com 2015 Site personnel de l'artiste-peintre Auvergnat Philippe Morel</p>
       </div>
 

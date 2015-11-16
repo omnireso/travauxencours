@@ -11,8 +11,8 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>La rivière, un tableau de Philippe Morel</title>
- <meta name="description" content="Peinture à l'huile d'une rivière représentée par Philippe Morel">
+ <title>Bouquet d'agapanthe dans un vase, toile du peintre ChamaliÃ©rois Philippe Morel</title>
+ <meta name="description" content="Bouquet d'agapanthes peint par Philippe Morel en 2006 Ã  ChamaliÃ¨res 63400">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
@@ -29,8 +29,8 @@
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
-<link rel="canonical" href="http://www.philmorel.com/riviere.php" />
+<link rel="next" href="http://www.philmorel.com/bouquet-champetre.php" />
+<link rel="canonical" href="http://www.philmorel.com/agapanthes.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -71,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÃ©es et Ã  venir">ActualitÃ© et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÃ©compenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="éditeur et hebergeur du site et CGU">Mentions légales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Ã©diteur et hebergeur du site et CGU">Mentions lÃ©gales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -89,30 +89,23 @@
 
 
 
- <h2><a href="riviere.php">Tableau La Rivière</a></h2>
+ <h1><a href="agapanthes.php">Agapanthes</a></h1>
 
 
-<p>Détails de ce tableau</p>
-<p>Technique : huile. Support : toile. Dimensions du tableau : 40x40</p>
-<p>Non disponible à la vente (toile vendue)</p>
-<p>Cette peinture a été récompensée en 2010 suite à l'exposition "regards d'artistes sur l'Auvergne", par les félicitations décernées par l'Oracle (Office Régional d'action Culturelle de Liaisons et d'Echanges).</p>
-<!-- Annee de creation //-->
-<!-- A ete exposé lors des Expositions //-->
-  
-  
+<p>DÃ©tails de ce tableau</p>
+<p>Technique : huile. Support : toile. Dimensions du tableau : 30x30</p>
+<p>Tableau rÃ©alisÃ© en 2006. Vendu.</p>
 
-               
+            
                           
   <article>
-  <p>La rivière fait partie de la thématique</p>
-  <h3><a href="peintures-paysages-nature.php">Paysages</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
+  <p>Agapanthes fait partie de la thÃ©matique</p>
+  <h3><a href="toiles-natures-mortes.php">Natures Mortes</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="799" src="paysages/la-riviere-vendu-prix_b.jpg" alt="La rivière tableau" /><figcaption>Peinture La rivière</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="905" src="fleurs/bouquet-agapanthes_b.jpg" alt="Bouquet d'Aganpanthes" /><figcaption>Agapanthes</figcaption></figure></div></div>
 
-
-
-                              <p>Accédez à <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
+                           
                                 
                 
           
@@ -134,7 +127,7 @@
       <footer>
       <div id="pied">
   <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 un site sur les &#339;uvres d'art du-peintre amateur Philippe Morel.</p>
+  <p>&copy; Philmorel.com 2015 Tableaux d'Auvergne et d'ailleurs par l'artiste Philippe Morel.</p>
       </div>
 
      

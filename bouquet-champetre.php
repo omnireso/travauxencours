@@ -10,24 +10,23 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
- <title>Bouquet Champêtre par le peintre Philippe Morel de Chamalières en Auvergne</title>
- <meta name="description" content="Bouquets Champêtre est un tableau de l'artiste amateur Philippe Morel">
-<link rel="icon" href="favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>Bouquet ChampÃªtre par le peintre Philippe Morel de ChamaliÃšres en Auvergne</title>
+ <meta name="description" content="Bouquets ChampÃªtre est un tableau de l'artiste amateur Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Tableaux de nature morte" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peintures et tableaux de natures mortes"/>
+<meta name="twitter:title" content="Un bouquet champÃªtre"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/cosmos-fleurs.php" />
@@ -72,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÃ©es et Ã  venir">ActualitÃ© et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÃ©compenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="éditeur et hebergeur du site et CGU">Mentions légales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Ã©diteur et hebergeur du site et CGU">Mentions lÃ©gales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -90,30 +89,27 @@
 
 
 
- <h1><a href="bouquet-champetre.php">Bouquet Champêtre</a></h1>
+ <h1><a href="bouquet-champetre.php">Bouquet ChampÃªtre</a></h1>
 
 
-<p>Détails de ce tableau</p>
+<p>DÃ©tails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 60x70</p>
-<p>Tableau disponible à le vente : <a href="contact.php">contactez l'artiste</a></p>
+<p>Tableau disponible Ã  la vente : <a href="contact.php">contactez l'artiste</a></p>
 <!-- Annee de creation //-->
-<!-- A ete exposé lors des Expositions //-->
+
   
   
 
                
                           
   <article>
-  <p>Bouquet Champêtre fait partie de la thématique</p>
+  <p>Bouquet ChampÃªtre fait partie de la thÃ©matique</p>
   <h3><a href="toiles-natures-mortes.php">Natures Mortes</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="902" src="fleurs/bouquet-champetre_b.jpg" alt="Bouquet Champêtre" /><figcaption>Bouquet Champêtre</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="902" src="fleurs/bouquet-champetre_b.jpg" alt="Bouquet Champetre fleurs rouges organges jaunes violettes" /><figcaption>Bouquet ChampÃªtre</figcaption></figure></div></div>
 
-
-
-                              <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-                                
+                               
                 
           
       </article>
@@ -133,8 +129,8 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 Tableaux d'Auvergne et d'ailleurs par l'artiste Philippe Morel.</p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
+  <p>&copy; Philmorel.com 2015 Natures mortes, bouquets de fleurs et autres paysages Philippe Morel.</p>
       </div>
 
      

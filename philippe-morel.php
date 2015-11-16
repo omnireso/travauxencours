@@ -11,22 +11,22 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Biographie de Philippe Morel Artiste-peintre amateur Chamalièrois</title>
-<link rel="icon" href="favicon.ico" />
+ <title>Biographie de Philippe Morel Artiste-peintre amateur ChamaliÃ©rois</title>
+ <meta name="description" content="DÃ©couvrez le portrait du peintre amateur ChamaliÃ©rois Philippe Morel, autodidacte fÃ©ru de sa nature Auvergnate.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Le peintre amateur Philippe Morel" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Biographie du peintre amateur Philippe Morel"/>
+<meta name="twitter:title" content="Biographie du peintre"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/actu.php" />
@@ -71,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÃ©es et Ã  venir">ActualitÃ© et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÃ©compenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="éditeur et hebergeur du site et CGU">Mentions légales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Ã©diteur et hebergeur du site et CGU">Mentions lÃ©gales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -95,37 +95,49 @@
   <article>
   
   
+
+  
                       
                       <h2>L'artiste vu par le webmaster</h2>
                       
-                                <p>Né en 1950 mais pas encore mort, Philippe Morel est donc par définition un artiste authentiquement contemporain, ce qu'il revendique au travers de la projection bien actuelle de son trait artistique, qui, tel une saillie picturale, bouleverse nos convictions sur le post-modernisme.</p></div>
+                      <p>
+                      <img src="philippe-morel.jpg" width="243" height="325" alt="L'artiste Philippe Morel devant ses tableaux">
+                      <br>CrÃ©dit photo : Mathely GÃ©rard, pour le Journal La Montagne, Source : <a href="http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html">http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html</a>
+                      </p>
+                      
+                      
+                    
+                      
+                                <p>NÃ© en 1950 mais pas encore mort, <em>Philippe Morel</em> est donc par dÃ©finition un artiste authentiquement contemporain, ce qu'il revendique au travers de la projection bien actuelle de son trait artistique, qui, tel une saillie picturale, bouleverse nos convictions sur le post-modernisme.</p>
                                 
-                                <p>Philippe Morel ("Filou" pour ses proches) s'exerce à la retranscription artistique du monde qu'il cotoie depuis presque un demi-siècle, et le processus de maturation de sa démarche d'artiste-peintre amateur le place dans un travail de recherche continu. Après s'être confronté à l'interprétation et la matéralisation de sa vision cosmique du décor quotidien (natures mortes, portraits, animaux...) il s'inscrit depuis quelques années dans une quête de l'image tendant vers l'abstrait.</p>
+                                <p><em>Philippe Morel</em> s'exerce Ã  la retranscription artistique du monde qu'il cotoie depuis presque un demi-siÃ¨cle, et le processus de maturation de sa dÃ©marche d'artiste-peintre amateur le place dans un travail de recherche continu. AprÃ¨s s'Ãªtre confrontÃ© Ã  l'interprÃ©tation et la matÃ©ralisation de sa vision cosmique du dÃ©cor quotidien (<a href="toiles-natures-mortes.php" hreflang="fr">natures mortes</a>, portraits, animaux...) il s'inscrit depuis quelques annÃ©es dans une quÃªte de l'image tendant vers l'abstrait.</p>
 
-                                <p>Les visiteurs curieux et attentifs auront l'opportunité de suivre le parcours du peintre vers cette recherche abstraite.</p>
+                                <p>Les visiteurs curieux et attentifs auront l'opportunitÃ© de suivre le parcours du peintre vers cette recherche abstraite.</p>
                                 
-                                <p>Reconnu par sa famille pour ses prouesses sportives (il manie aussi bien le pinceau et la palette de couleurs que la pédale), il affectionne particulièrement la couleur jaune en hommage au maillot qu'il rêve de porter sur les routes sinueuses et pentues de sa région Rhône-Alpes.</p>
+                                <p>Reconnu par sa famille pour ses prouesses sportives (il manie aussi bien le pinceau et la palette de couleurs que la pÃ©dale), il affectionne particuliÃ¨rement la couleur jaune en hommage au maillot qu'il rÃªve de porter sur les routes sinueuses et pentues de sa rÃ©gion RhÃ´ne-Alpes-Auvergne.</p>
                                 
-                                <p>Et c'est sans compter sur ses talents de musicien (il manie aussi bien la pédale que la baguette de chef de choeur).</p>
+                                                          
+                                <p>Reconnu par ses pairs, il a obtenu de nombreux titres honorifiques au cours de rÃ©unions familiales pour la globalitÃ© de son oeuvre, ainsi que de nombreux encouragements, <a href="http://www.philmorel.com/presse.php" hreflang="fr">prix, distinctions et rÃ©compenses</a> de la part de comitÃ©s rÃ©gionaux.</p>
                                 
-                                <p>Reconnu par ses pairs, il a obtenu de nombreux titres honorifiques au cours de réunions familiales pour la globalité de son oeuvre, ainsi que de nombreux encouragements, récompenses et autres coupons de réduction lors d'évènements communaux.</p>
+                                                     
+                                                   </article>
+                                                   
+                                                   <article>
+                                                     
+                                <h2>L'artiste vu par lui-mÃªme</h2>
                                 
-                               <!-- <p>Joueur de carte infatiguable et incorruptible, il écume l'Hexagone à la recherche de partenaires.</p> -->
                                 
-                                <h2>L'artiste vu par lui-même</h2>
-                                
-                                
-                                <p>Peintre autodidacte, membre de l'association des Artistes de Chamalières, je pratique essentiellement la peinture à l'huile et l'acrylique, cependant le pastel me permet de varier les approches et d'enrichir ma palette de coloris.</p>
+                                <p>Peintre autodidacte, membre de l'association des Artistes de ChamaliÃ¨res, je pratique essentiellement la <strong>peinture Ã  l'huile et l'acrylique</strong>, cependant le pastel me permet de varier les approches et d'enrichir ma palette de coloris.</p>
 	
 
-<p>Ma peinture figurative est  largement inspirée par les paysages auvergnats, avec une préférence pour les éclairages très contrastés, ciels d'orage sur la Limagne, champs de colza ou de tournesols.   Forets,  reflets sur l'eau et  fleurs constituent d'autres sources d'inspiration. Ma démarche consiste à rechercher la simplification en  renforçant les lignes et les contrastes. Cézanne, Matisse et Nicolas de Staël ont toujours été des modèles pour moi. Je commence à m'intéresser à une démarche vers l'abstraction pour renforcer la composition des toiles et faire évoluer mon approche des paysages.</p>
+<p>Ma <strong>peinture figurative</strong> est largement inspirÃ©e par les <a href="tableaux-auvergne-paysages.php" hreflang="fr">paysages auvergnats</a>, avec une prÃ©fÃ©rence pour les Ã©clairages trÃ¨s contrastÃ©s, ciels d'orage sur la Limagne, champs de colza ou de tournesols. FÃ´rets, reflets sur l'eau et <a href="tableaux-fleurs.php" hreflang="fr">fleurs</a> constituent d'autres sources d'inspiration. Ma dÃ©marche consiste Ã  rechercher la simplification en  renforÃ§ant les lignes et les contrastes. <em>CÃ©zanne</em>, <em>Matisse</em> et <em>Nicolas de StaÃ«l</em> ont toujours Ã©tÃ© des modÃ¨les pour moi. Je commence Ã  m'intÃ©resser Ã  une dÃ©marche vers l'abstraction pour renforcer la composition des toiles et faire Ã©voluer mon approche des paysages.</p>
 
 
-<p>Je participe depuis plusieurs années aux expositions collectives organisées par les Artistes Chamaliérois et par l'ORACLE, à Clermont -Ferrand Chamalières et de nombreuses autres communes du département, dans lesquelles j'ai obtenu plusieurs distinctions.</p>
+<p>Je participe depuis plusieurs annÃ©es aux expositions collectives organisÃ©es par les Artistes ChamaliÃ©rois et par l'ORACLE, Clermont -Ferrand ChamaliÃ¨res et de nombreuses autres communes du dÃ©partement, dans lesquelles j'ai obtenu plusieurs distinctions.</p>
 
-<p>Les expositions personnelles récentes :</p>
+<p>Les expositions personnelles rÃ©centes (pour une liste exhaustive des dates, consulter la rubrique <a href="http://www.philmorel.com/actu.php" hreflang="fr">actu</a> :</p>
 
-<p>Office du tourisme de Pont du château (2014), La maison Grenouille à Pérignat sur Allier (2015), Usson (63) un des plus beaux villages de France (2015) , Marcillac la Croisille en Corrèze (2015), Chatel Guyon (2015).
+<p>Office du tourisme de Pont du chÃ¢teau (2014), La maison Grenouille Ã  PÃ©rignat sur Allier (2015), Usson (63) un des plus beaux villages de France (2015) , Marcillac la Croisille en CorrÃ¨ze (2015), Chatel Guyon (2015).
 </p>
  
  
@@ -148,7 +160,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
    <p>&copy; Philmorel.com 2015 Recueil des travaux artistiques de Philippe Morel</p>
       </div>
 

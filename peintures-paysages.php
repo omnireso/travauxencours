@@ -19,14 +19,14 @@
 
 <link rel="canonical" href="http://www.philmorel.com" />
 <link rel="next" href="http://www.philmorel.com/page/2/" />
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
 <meta property="og:description" content="Artiste peintre" />
 <meta property="og:url" content="https://photogrist.com" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta property="og:image" content="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/c0.73.851.315/p851x315/10269189_698615636879851_5098754868816642907_o.jpg" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content=""/>

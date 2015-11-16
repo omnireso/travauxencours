@@ -10,12 +10,12 @@
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Tableau de femme fatale de profil par Philippe Morel</title>
  <meta name="description" content="Femme fatale peinte de profil par l'artiste-amateur Philippe Morel">
 <link rel="icon" href="favicon.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -23,7 +23,7 @@
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>

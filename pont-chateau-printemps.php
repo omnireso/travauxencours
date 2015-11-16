@@ -15,7 +15,7 @@
  <meta name="description" content="Ceci est le deuxième tableau sur Pont du Château en Auvergne 63430 qui représente la ville au printemps.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -23,7 +23,7 @@
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
@@ -138,7 +138,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
   <p>&copy; Philmorel.com 2015 Site personnel de l'artiste-peintre Auvergnat Philippe Morel</p>
       </div>
 

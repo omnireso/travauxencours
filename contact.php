@@ -2,11 +2,13 @@
 $subjectPrefix = '[Contact du Site]';
 $emailTo = 'yann@omnireso.com';
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $name    = stripslashes(trim($_POST['form-name']));
-    $email   = stripslashes(trim($_POST['form-email']));
-    $phone   = stripslashes(trim($_POST['form-tel']));
-    $subject = stripslashes(trim($_POST['form-assunto']));
-    $message = stripslashes(trim($_POST['form-mensagem']));
+    $name    = stripslashes(trim($_POST['nom']));
+    $email   = stripslashes(trim($_POST['email']));
+    $phone   = stripslashes(trim($_POST['tel']));
+      $agenda   = stripslashes(trim($_POST['agenda']));
+    $site   = stripslashes(trim($_POST['site']));
+    $subject = stripslashes(trim($_POST['sujet']));
+    $message = stripslashes(trim($_POST['message']));
     $pattern = '/[\r\n]|Content-Type:|Bcc:|Cc:/i';
     if (preg_match($pattern, $name) || preg_match($pattern, $email) || preg_match($pattern, $subject)) {
         die("Header injection detected");
@@ -43,13 +45,13 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" media="screen">
  <title>Contactez Philippe Morel artiste peintre amateur Auvergnat</title>
  <meta name="description" content="Si un des tableaux de la galerie de peinture du peintre amateur Philippe Morel vous intéresse, vous pouvez communiquez avec l'auteur sur cette page.">
 <link rel="icon" href="favicon.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -57,7 +59,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="Peintures et tableaux de paysages"/>
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
@@ -184,10 +186,11 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <p>Si vous possédez un site et souhaitez m'en informer : <label for="site"><input type="url" name="website" placeholder="http://philmorel.com/" id="site"></label></p>
 
+Votre message ci-dessous *<br />
 <textarea name="message" placeholder="Votre message ici" autocomplete="on" wrap="hard" rows="10" cols="50" spellcheck="on" required="1"></textarea>
 
 
-<input type="submit" value="envoyer">
+<input type="submit" value="envoyer" class="btn btn-default">
 
 
 </fieldset>
@@ -236,7 +239,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <!--[if gte IE 9]><!-->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <!--<![endif]-->
-    <script type="text/javascript" src="contactform.js"></script>
+ <!--   <script type="text/javascript" src="contactform.js"></script> -->
 
  </div>
     

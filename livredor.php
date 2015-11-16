@@ -11,8 +11,8 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>La rivière, un tableau de Philippe Morel</title>
- <meta name="description" content="Peinture à l'huile d'une rivière représentée par Philippe Morel">
+ <title>Livre d'or du peintre amateur chamalièrois Philippe Morel</title>
+ <meta name="description" content="Laissez vos impressions sur les tableaux, les toiles et les dessins de l'artiste-peintre Philippe Morel.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
@@ -29,8 +29,8 @@
 <meta name="twitter:title" content="Peintures d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
-<link rel="canonical" href="http://www.philmorel.com/riviere.php" />
+<link rel="next" href="http://www.philmorel.com/actu.php" />
+<link rel="canonical" href="http://www.philmorel.com/presse.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -89,31 +89,18 @@
 
 
 
- <h2><a href="riviere.php">Tableau La Rivière</a></h2>
-
-
-<p>Détails de ce tableau</p>
-<p>Technique : huile. Support : toile. Dimensions du tableau : 40x40</p>
-<p>Non disponible à la vente (toile vendue)</p>
-<p>Cette peinture a été récompensée en 2010 suite à l'exposition "regards d'artistes sur l'Auvergne", par les félicitations décernées par l'Oracle (Office Régional d'action Culturelle de Liaisons et d'Echanges).</p>
-<!-- Annee de creation //-->
-<!-- A ete exposé lors des Expositions //-->
-  
-  
-
+ 
                
                           
   <article>
-  <p>La rivière fait partie de la thématique</p>
-  <h3><a href="peintures-paysages-nature.php">Paysages</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
-    
-
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="799" src="paysages/la-riviere-vendu-prix_b.jpg" alt="La rivière tableau" /><figcaption>Peinture La rivière</figcaption></figure></div></div>
-
-
-
-                              <p>Accédez à <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-                                
+  
+  
+  <h1>Livre d'or</h1>
+ 
+ <p>Vous pourrez laisser vos commentaires sur cette page.</p>
+ 
+ 
+ 
                 
           
       </article>
@@ -134,7 +121,7 @@
       <footer>
       <div id="pied">
   <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 un site sur les &#339;uvres d'art du-peintre amateur Philippe Morel.</p>
+   <p>&copy; Philmorel.com 2015 Recueil des travaux artistiques de Philippe Morel</p>
       </div>
 
      

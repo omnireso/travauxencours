@@ -11,8 +11,8 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>La riviËre, un tableau de Philippe Morel</title>
- <meta name="description" content="Peinture ‡ l'huile d'une riviËre reprÈsentÈe par Philippe Morel">
+ <title>Expositions pass√©es et √† venir, r√©compenses et prix en peinture de Philippe Morel</title>
+ <meta name="description" content="Archives des expositions et programme des prochains √©v√©nements de l'artiste-peintre Philippe Morel.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
@@ -20,17 +20,17 @@
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
-<meta property="og:url" content="http://www.philmorel.com/" />
+<meta property="og:description" content="Actualit√©s du peintre Philippe Morel" />
+<meta property="og:url" content="http://www.philmorel.com/actu.php" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Actualit√©s du peintre Philippe Morel, exposition, retomb√©es presse, prix..."/>
+<meta name="twitter:title" content="Actu du peintre Chamali√©rois Philippe Morel"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
-<link rel="canonical" href="http://www.philmorel.com/riviere.php" />
+<link rel="next" href="http://www.philmorel.com/tableaux.php" />
+<link rel="canonical" href="http://www.philmorel.com/actu.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -71,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÈes et ‡ venir">Actualit√©È et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÈcompenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions pass√©es et √† venir">Actualit√© et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et r√©compenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Èditeur et hebergeur du site et CGU">Mentions lÈgales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="√©diteur et hebergeur du site et CGU">Mentions l√©gales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -89,32 +89,40 @@
 
 
 
- <h2><a href="riviere.php">Tableau La RiviËre</a></h2>
-
-
-<p>DÈtails de ce tableau</p>
-<p>Technique : huile. Support : toile. Dimensions du tableau : 40x40</p>
-<p>Non disponible ‡ la vente (toile vendue)</p>
-<p>Cette peinture a ÈtÈ rÈcompensÈe en 2010 suite ‡ l'exposition "regards d'artistes sur l'Auvergne", par les fÈlicitations dÈcernÈes par l'Oracle (Office RÈgional d'action Culturelle de Liaisons et d'Echanges).</p>
-<!-- Annee de creation //-->
-<!-- A ete exposÈ lors des Expositions //-->
-  
-  
-
+ 
                
                           
   <article>
-  <p>La riviËre fait partie de la thÈmatique</p>
-  <h3><a href="peintures-paysages-nature.php">Paysages</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
+  
+  
+  <h2>Expositions ‡ venir</h2>
+  <p>Ce tableau sera compl√©t√© au fil de l'Actualit√© de l'artiste : n'h√©sitez pas √† revenir ou bien √† vous abonner √† la newsletter (lettre d'information) pour √™tre inform√© des prochaines dates d'exposition, par exemple.</p>
+  
+  
+  
+  
+  <h3>Expositions</h3>
+    <p>Quelques dates pass√©es, qui seront compl√©t√©es par des photos d'archives d'ici quelques jours.</p>
     
-
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="799" src="paysages/la-riviere-vendu-prix_b.jpg" alt="La riviËre tableau" /><figcaption>Peinture La riviËre</figcaption></figure></div></div>
-
-
-
-                              <p>AccÈdez ‡ <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-                                
-                
+  
+     
+             <ul>
+             <li>Usson 2011</li>
+             <li>Usson 2012</li>
+             <li>Ch‚tel Guyon - Galerie du Parc - 2014</li>
+             <li>Monton - Tour du Bailly - 2008</li>
+             <li>Marcillac La Croisille  - 2015</li>
+             <li>Usson 2015</li>
+              <li>Artistes Chamali√©rois - Carrefour Europe - 2014</li>
+              <li>Pont du Ch√¢teau - Syndicat d'Initiative - 2014</li>
+                 <li>Artistes Chamali√©rois - Carrefour Europe -2015</li>
+                 <li>P√©rignat Es Allier - La maison Grenouille - 2015</li>
+                 <li>Ch‚tel Guyon - Galerie du Parc - 2015</li>
+               <li>Usson 2015</li>
+                        </ul>
+      
+              
+              
           
       </article>
       
@@ -134,7 +142,7 @@
       <footer>
       <div id="pied">
   <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 un site sur les &#339;uvres d'art du-peintre amateur Philippe Morel.</p>
+   <p>&copy; Philmorel.com 2015 ce site pr√©sente les &#339;uvres graphiques (peintures,dessins) de l'artiste-peintre amateur Philippe Morel r√©sidant √† Chamali√®res, Auvergne.</p>
       </div>
 
      

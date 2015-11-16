@@ -11,23 +11,22 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- <title>Bord de Loire tableau de Philippe Morel peintre amateur auvergnat</title>
- <meta name="description" content="Paysage de bord de Loire peint par Philippe Morel">
-<link rel="icon" href="favicon.ico" />
+ <title>Bord de Loire tableau de Philippe Morel peintre-amateur auvergnat</title>
+ <meta name="description" content="Paysage de bord de Loire vers Digoin dans le Charolais-Brionnais peint par Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="publisher" href="https://plus.google.com/+PhilippeMorel"/>
+<link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Bord de Loire en peinture" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
-<meta property="article:publisher" content="https://www.facebook.com/philmorel" />
+<meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Paysage de bord de Loire"/>
+<meta name="twitter:title" content="La loire en peinture"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/oree-du-bois.php" />
@@ -94,7 +93,7 @@
 
 
 <p>Détails de ce tableau</p>
-<p>Technique : huile. Support : toile. Dimensions du tableau : 33x40</p>
+<p>Technique : huile. Support : toile. Dimensions du tableau : inconnues</p>
 <p>Attention : tableau non disponible à la vente (vendu)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
@@ -108,7 +107,7 @@
   <h3><a href="peintures-paysages-nature.php">Paysages</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
-<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="799" src="paysages/bord-de-loire-2011-vendu_b.jpg" alt="Bord de Loire tableau" /><figcaption>Peinture Orée du bois</figcaption></figure></div></div>
+<div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="799" src="paysages/bord-de-loire-2011-vendu_b.jpg" alt="Bord de Loire Digoin tableau" /><figcaption>Digoin en bord de Loire</figcaption></figure></div></div>
 
 
 
@@ -133,7 +132,7 @@
 
       <footer>
       <div id="pied">
-  <p id="breadcrumbs"><a href="http://philmorel.com/" rel="v:url" property="v:title">Artiste peintre</a></p>
+  <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
   <p>&copy; Philmorel.com 2015 ce site présente les &#339;uvres artistiques du-peintre amateur Philippe Morel de Chamalières dans le Puy de Dôme.</p>
       </div>
 
