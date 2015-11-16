@@ -11,8 +11,8 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Avant la pluie un tableau du peintre chamali√©rois Philippe Morel</title>
- <meta name="description" content="Ciel bas et nuageux en peinture : avant la pluie de Philippe Morel, peintre amateur Chamali√©rois.">
+ <title>Avant la pluie un tableau du peintre chamaliÈrois Philippe Morel</title>
+ <meta name="description" content="Ciel bas et nuageux en peinture : avant la pluie de Philippe Morel, peintre amateur ChamaliÈrois.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
@@ -71,11 +71,11 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions pass√©es et √† venir">Actualit√© et expositions</a></li>
-		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et r√©compenses">Revue de presse</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passÈes et ‡ venir">ActualitÈ et expositions</a></li>
+		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et rÈcompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
-                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="√©diteur et hebergeur du site et CGU">Mentions l√©gales du site</a></li>
+                     <li><a href="http://www.philmorel.com/mentions.php" hreflang="fr" title="Èditeur et hebergeur du site et CGU">Mentions lÈgales du site</a></li>
                    <li><a href="http://www.philmorel.com/en/" hreflang="en" title="version anglaise">English Version</a></li></ul>
 
 
@@ -92,8 +92,8 @@
  <h2><a href="avant-la-pluie.php">Tableau Avant la pluie</a></h2>
 
 
-<p>D√©tails de ce tableau</p>
-<p>Technique : Pastel. Support : papier. Dimensions de l'oeuvre : non renseign√©e</p>
+<p>DÈtails de ce tableau</p>
+<p>Technique : Pastel. Support : papier. Dimensions de l'oeuvre : non renseignÈes</p>
 <p>Disponible ‡ la vente (<a href="contact.php">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 
@@ -103,7 +103,7 @@
                
                           
   <article>
-  <p>Avant la pluie fait partie de la th√©matique</p>
+  <p>Avant la pluie fait partie de la thÈmatique</p>
   <h3><a href="peintures-paysages-nature.php">Paysages</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
@@ -111,8 +111,7 @@
 
 
 
-                              <p>Acc√©dez √† d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
-                                
+                                                             
                 
           
       </article>
@@ -133,7 +132,7 @@
       <footer>
       <div id="pied">
   <p id="breadcrumbs"><a href="http://philmorel.com/">Artiste peintre</a></p>
-  <p>&copy; Philmorel.com 2015 repr√©sente les &#339;uvres d'art du-peintre amateur Philippe Morel de Chamali√®res 63400.</p>
+  <p>&copy; Philmorel.com 2015 reprÈsente les &#339;uvres d'art du-peintre amateur Philippe Morel de ChamaliËres 63400.</p>
       </div>
 
      

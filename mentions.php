@@ -19,14 +19,14 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Mentions légales" />
+<meta property="og:description" content="Visualisez les mentions légales du site philmorel.com" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/philmorel" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Mentions légales"/>
+<meta name="twitter:title" content="Mentions légales du site"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/actu.php" />
@@ -102,7 +102,7 @@
 <h2>Hebergeur du site</h2>
 
 <p>Le site est hebergé sur les serveurs du prestataire informatique Clermontois OS2Switch. <br />
-SARL au capital de 100000¤ (Numéro Siret : 510 909 80700024), enregistrée auprès du RCS Clermont Ferrand.<br />
+SARL au capital de 100000 euros (Numéro Siret : 510 909 80700024), enregistrée auprès du RCS Clermont Ferrand.<br />
 Pour contacter cette société : par téléphone : 04 44 44 60 40 ou en vous rendant sur place à Clermont-Fd : 222-224 Boulevard Gustave Flaubert 63000 Clermont-Ferrand</p>
 
 <h2>Droit et Propriété Intellectuelle</h2>

@@ -72,7 +72,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
@@ -103,7 +103,7 @@
   
 <div id="tableau-grid">
 <div class="tableau-cell"><figure><a href="sauterre.php"><img width="290" height="210" src="auvergne/sauterre_v.jpg" alt="Sauterre" /></a></figure></div><div class="tableau-cell"><figure><a href="tournesols.php"><img width="290" height="210" src="auvergne/tournesols_v.jpg" alt="Tournseols" /></a></figure></div><div class="tableau-cell"><figure><a href="saint-genes-champanelle.php"><img width="290" height="210" src="auvergne/st-genes_v.jpg" alt="Saint-Genès Champanelle" /></a></figure></div></div>
-<div class="tableau-cell"><figure><a href="matin-limagne.php"><img width="290" height="210" src="auvergne/matin-limagne_v.jpg" alt="Matin en Limagne" /></a></figure></div><div class="tableau-cell"><figure><a href="montmorin.php"><img width="290" height="210" src="auvergne/montmorin_v.jpg" alt="Montmorin" /></a></a></figure></div><div class="tableau-cell"><figure><a href="puy-de-dome.php"><img width="290" height="210" src="auvergne/puy-de-dome_v.jpg" alt="Puy de Dôme" /></a></figure></div>
+<div class="tableau-cell"><figure><a href="matin-limagne.php"><img width="290" height="210" src="auvergne/matin-limagne_v.jpg" alt="Matin en Limagne" /></a></figure></div><div class="tableau-cell"><figure><a href="montmorin.php"><img width="290" height="210" src="auvergne/montmorin_v.jpg" alt="Montmorin" /></a></figure></div><div class="tableau-cell"><figure><a href="puy-de-dome.php"><img width="290" height="210" src="auvergne/puy-de-dome_v.jpg" alt="Puy de Dôme" /></a></figure></div>
 
 
  

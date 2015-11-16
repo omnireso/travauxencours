@@ -19,18 +19,18 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Peinture nu" />
+<meta property="og:description" content="Peinture de nu" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/philmorel" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Nu féminin"/>
+<meta name="twitter:title" content="Tableau de femme nue"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/nu.php" />
-<link rel="canonical" href="http://www.philmorel.com/langueur.php" />
+<link rel="next" href="http://www.philmorel.com/langueur.php" />
+<link rel="canonical" href="http://www.philmorel.com/nu.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
