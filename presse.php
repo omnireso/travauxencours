@@ -127,22 +127,22 @@
           <dl>
             <dt>Philippe Morel expose à la maison grenouille, paru dans la Montagne le 26.03.2015</dt>
                 <dd><a href="http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html"
-hreflang="fr">http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html</a></dd>
+hreflang="fr" target="_blank">http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html</a></dd>
 
 <dt>Philippe Morel expose à la maison grenouille, paru sur le site de la Maison Grenouille le 14.03.2015</dt>
                 <dd><a href="http://maisongrenouille.fr/programmation/2015/03/14/1019-la-peinture-figurative-de-philippe-morel/"
-hreflang="fr">http://maisongrenouille.fr/programmation/2015/03/14/1019-la-peinture-figurative-de-philippe-morel/</a></dd>
+hreflang="fr" target="_blank">http://maisongrenouille.fr/programmation/2015/03/14/1019-la-peinture-figurative-de-philippe-morel/</a></dd>
 
 
 <dt>Les artistes Chamaliérois à l'honneur, 1er prix peinture à l'huile pour le <a href="http://www.philmorel.com/tournesols.php" hreflang="fr">tableau "Tournesols"</a> de Philippe Morel, publié le 29 janvier 2015 sur le site officiel de la Mairoe de Chamalières</dt>
                 <dd><a href="http://www.ville-chamalieres.fr/Les-Artistes-Chamalierois-a-l.html"
-hreflang="fr">http://www.ville-chamalieres.fr/Les-Artistes-Chamalierois-a-l.html</a></dd>
+hreflang="fr" target="_blank">http://www.ville-chamalieres.fr/Les-Artistes-Chamalierois-a-l.html</a></dd>
 
 
 
 <dt>1 er Prix de peinture à l'huile Philippe Morel publié sur le site les Artistes Chamalièrois (<a href="http://www.philmorel.com/tournesols.php" hreflang="fr">peinture "Tournesols"</a>)</dt>
                 <dd><a href="http://www.les-artisteschamalierois.odavia.com/pro_page.asp?page=3894&sm=3883"
-hreflang="fr">http://www.les-artisteschamalierois.odavia.com/pro_page.asp?page=3894&sm=3883</a></dd>
+hreflang="fr" target="_blank">http://www.les-artisteschamalierois.odavia.com/pro_page.asp?page=3894&sm=3883</a></dd>
 
 
 

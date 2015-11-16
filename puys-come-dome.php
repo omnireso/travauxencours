@@ -11,7 +11,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Puys de Côme et Puy de Dôme tableau de volcans d'Auvergne par Philippe Morel</title>
+ <title>Puy de Côme et Puy de Dôme tableau de volcans d'Auvergne par Philippe Morel</title>
  <meta name="description" content="Deux puys de la chaîne des volcans d'Auvergne : le puy de Côme et le puy de Dôme par Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,8 +25,8 @@
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures de"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture de deux volcans d'Auvergne"/>
+<meta name="twitter:title" content="Puys de Côme et Puy de Dôme"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montpeyroux.php" />

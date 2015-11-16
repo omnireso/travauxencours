@@ -11,8 +11,8 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Philippe Morel, artiste peintre amateur chamaliérois 63400</title>
- <meta name="description" content="Philippe Morel artiste peintre auvergnat vous présente ses oeuvres et tableaux en cours de réalisation.">
+<title>Natures mortes peintes par Philippe Morel artiste amateur Auvergnat</title>
+ <meta name="description" content="Tableaux de fleurs et de fruits du peintre amateur Chamaliérois Philippe Morel">
 <meta name="keywords" content="philippe morel, peintre, arts, artiste, artistique, tableaux, peinture">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,13 +21,13 @@
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Natures mortes fleurs et fruits" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Bouquets de fleurs et coupes de fruits"/>
+<meta name="twitter:title" content="Peintures de natures mortes"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/actu.php" />
@@ -72,7 +72,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>

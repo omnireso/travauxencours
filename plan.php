@@ -215,7 +215,7 @@
 
 <li><a href="http://www.philmorel.com/contact.php" hreflang="fr">Contact</a></li>
 <li><a href="http://www.philmorel.com/exposition.php" hreflang="fr">Expositions</a></li>
-<li><a href="http://www.philmorel.com/ActualitÃ©e.php" hreflang="fr">ActualitÃ©é</a></li>
+<li><a href="http://www.philmorel.com/ActualitÃ©e.php" hreflang="fr">Actualité</a></li>
 <li><a href="http://www.philmorel.com/presse.php" hreflang="fr">Revue de presse</a></li>
 <li><a href="http://www.philmorel.com/livre.php" hreflang="fr">Livre d'Or</a></li>
 <li><a href="http://www.philmorel.com/recompenses.php" hreflang="fr">Prix, mentions et récompenses</a></li>

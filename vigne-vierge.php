@@ -19,18 +19,18 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Vigne vierge" />
+<meta property="og:description" content="Tableau de vigne vierge sur un mur" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture de vigne vierge"/>
+<meta name="twitter:title" content="Vigne vierge"/>
 <meta name="twitter:site" content="@philmorel"/>
 
-<link rel="next" href="http://www.philmorel.com/vigne-vierge.php" />
-<link rel="canonical" href="http://www.philmorel.com/pommes-et-violettes.php" />
+<link rel="next" href="http://www.philmorel.com/mimosa.php" />
+<link rel="canonical" href="http://www.philmorel.com/vigne-vierge.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -71,7 +71,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>

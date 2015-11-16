@@ -12,21 +12,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>La rivière, un tableau de Philippe Morel</title>
- <meta name="description" content="Peinture à l'huile d'une rivière représentée par Philippe Morel">
+ <meta name="description" content="Peinture à l'huile d'un paysage de rivière représentée par Philippe Morel">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Rivière" />
+<meta property="og:description" content="Tableau d'une rivière" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture de paysage de bord de rivière"/>
+<meta name="twitter:title" content="La rivière"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/bords-de-loire.php" />
@@ -71,7 +71,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
@@ -95,7 +95,7 @@
 <p>Détails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 40x40</p>
 <p>Non disponible à la vente (toile vendue)</p>
-<p>Cette peinture a été récompensée en 2010 suite à l'exposition "regards d'artistes sur l'Auvergne", par les félicitations décernées par l'Oracle (Office Régional d'action Culturelle de Liaisons et d'Echanges).</p>
+<p>Cette peinture a été récompensée en 2010 suite à l'exposition "<em>regards d'artistes sur l'Auvergne</em>", par les félicitations décernées par l'Oracle (Office Régional d'action Culturelle de Liaisons et d'Echanges).</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
