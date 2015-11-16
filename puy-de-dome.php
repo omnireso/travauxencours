@@ -19,14 +19,14 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Puy de Dôme" />
+<meta property="og:description" content="Tableau du Puy de Dôme" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peintures du Puy de Dôme"/>
+<meta name="twitter:title" content="Puy de Dôme"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montmorin.php" />
@@ -71,7 +71,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
@@ -95,7 +95,7 @@
 <p>Détails de ce tableau</p>
 <p>Technique : Acrylique. Support : toile. Dimensions du tableau : 30x30</p>
 <p>Tableau peint en 2015</p>
-<p>Disponible à la vente (<a href="contact.php?t=pdd">Prendre contact avec l'artiste</a>)</p>
+<p>Disponible à la vente (<a href="contact.php">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
@@ -104,13 +104,13 @@
                
                           
   <article>
-  <p>Matin en Limagne fait partie de la thématique</p>
+  <p>Puy de Dôme fait partie de la thématique</p>
   <h3><a href="tableaux.php">Paysages d'Auvergne</a></h3><p>Parmi la galerie de peintures de l'artiste Philippe Morel</p>
     
 
 <div id="tableau-grid"><div class="tableau-cell"><figure><img width="994" height="1000" src="auvergne/puy-de-dome_b.jpg" alt="Puy de dome vu du sud" /><figcaption>Puy de Dôme</figcaption></figure></div></div>
 
-
+      <p>D'autres tableaux mettant en scène le Puy de Dôme : </p>
 
                               <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
                                 

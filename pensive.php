@@ -20,17 +20,17 @@
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Tableau de femme pensive" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture d'une femme pensive"/>
+<meta name="twitter:title" content="Femme pensive"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/langueur.php" />
-<link rel="canonical" href="http://www.philmorel.com/femme-fatale.php" />
+<link rel="canonical" href="http://www.philmorel.com/pensive.php" />
 
 
 <link href="css/bootstrap.min.css" rel="stylesheet">

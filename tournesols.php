@@ -94,7 +94,7 @@
 
 <p>Détails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 40x40</p>
-<p>Disponible à la vente (<a href="contact.php?t=tournesols">Prendre contact avec l'artiste</a>)</p>
+<p>Disponible à la vente (<a href="contact.php">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   
@@ -110,6 +110,7 @@
 <div id="tableau-grid"><div class="tableau-cell"><figure><img width="1000" height="991" src="auvergne/tournesols_b.jpg" alt="Tournseols" /><figcaption>Tournesols</figcaption></figure></div></div>
 
 
+<p>Ce tableau a remporté le 1er prix catégorie "peinture à l'huile" decerné par l'association des artistes Chamaliérois en 2015, cf. <a href="presse.php" hreflang="fr">Revue de presse et revue du web</a></p>.
 
                               <p>Accédez à d'autres <a href="tableaux-auvergne.php">Tableaux d'Auvergne</a></p>
                                 

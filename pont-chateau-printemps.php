@@ -20,13 +20,13 @@
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:description" content="Pont du Château" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture de la ville de Pont Du Château"/>
+<meta name="twitter:title" content="Pont du Château en Auvergne 63430"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montpeyroux.php" />
@@ -94,7 +94,7 @@
 
 <p>Détails de ce tableau</p>
 <p>Technique : huile. Support : toile. Dimensions du tableau : 45x55</p>
-<p>Tableau disponible à la vente (<a href="contact.php?t=pontduchateau">Prendre contact avec l'artiste</a>)</p>
+<p>Tableau disponible à la vente (<a href="contact.php">Prendre contact avec l'artiste</a>)</p>
 <!-- Annee de creation //-->
 <!-- A ete exposé lors des Expositions //-->
   

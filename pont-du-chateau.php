@@ -12,21 +12,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Pont-du-Château et l'Allier, tableau de Philippe Morel</title>
- <meta name="description" content="Une partie de la ville de Pont-du-Château (63430) qui borde la rivière Allier dans le Puy de Dôme.">
+ <meta name="description" content="Tableau d'un morceau choisi par un peintre amateur de la ville de Pont-du-Château (63430) qui borde la rivière Allier dans le Puy de Dôme.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
+<meta property="og:title" content="Tableau Pont Du Château" />
 <meta property="og:description" content="Tableaux et peintures" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Peinture de la ville de Pont du Château en Auvergne 63430"/>
+<meta name="twitter:title" content="Peinture ville d'Auvergne"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montpeyroux.php" />

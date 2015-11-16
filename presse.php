@@ -19,14 +19,14 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="La presse parle de Philippe Morel" />
+<meta property="og:description" content="Revue de presse du peintre-amateur Philippe Morel" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Articles de presse sur Philippe Morel"/>
+<meta name="twitter:title" content="Parutions presse ou web de l'artiste-amateur Philippe Morel"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/actu.php" />
@@ -71,7 +71,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
@@ -105,7 +105,7 @@
    <li>Exposition Châtel Guyon 2014</li>
     <li>Prix Peinture Huile Chamalières 2015</li>
      <li>Prix du Jury Oracle en 2013 pour le tableau "Lac de Rillé"</li>
-      <li>Regards d'artistes sur l'Auvergne 2010, récompense pour le <a href="riviere.php">tableau "La rivière"</a></li>
+      <li>Regards d'artistes sur l'Auvergne 2010, récompense pour le <a href="riviere.php" hreflang="fr">tableau "La rivière"</a></li>
        <li>Exposition artistes chamalièrois 1er prix pour peinture huile tableau "Les Tournesols"</li>
         <li>...</li>
          <li>Suite en cours de saisie</li>
@@ -115,6 +115,44 @@
  
                 
           
+      </article>
+
+
+      <article>
+
+          <h2>Revue du web</h2>
+
+          <p>Quels sont les sites internet qui mentionnent Philippe Morel ?</p>
+
+          <dl>
+            <dt>Philippe Morel expose à la maison grenouille, paru dans la Montagne le 26.03.2015</dt>
+                <dd><a href="http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html"
+hreflang="fr">http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/puy-de-dome-local/2015/03/26/philippe-morel-expose-a-la-maison-grenouille_11380116.html</a></dd>
+
+<dt>Philippe Morel expose à la maison grenouille, paru sur le site de la Maison Grenouille le 14.03.2015</dt>
+                <dd><a href="http://maisongrenouille.fr/programmation/2015/03/14/1019-la-peinture-figurative-de-philippe-morel/"
+hreflang="fr">http://maisongrenouille.fr/programmation/2015/03/14/1019-la-peinture-figurative-de-philippe-morel/</a></dd>
+
+
+<dt>Les artistes Chamaliérois à l'honneur, 1er prix peinture à l'huile pour le <a href="http://www.philmorel.com/tournesols.php" hreflang="fr">tableau "Tournesols"</a> de Philippe Morel, publié le 29 janvier 2015 sur le site officiel de la Mairoe de Chamalières</dt>
+                <dd><a href="http://www.ville-chamalieres.fr/Les-Artistes-Chamalierois-a-l.html"
+hreflang="fr">http://www.ville-chamalieres.fr/Les-Artistes-Chamalierois-a-l.html</a></dd>
+
+
+
+<dt>1 er Prix de peinture à l'huile Philippe Morel publié sur le site les Artistes Chamalièrois (<a href="http://www.philmorel.com/tournesols.php" hreflang="fr">peinture "Tournesols"</a>)</dt>
+                <dd><a href="http://www.les-artisteschamalierois.odavia.com/pro_page.asp?page=3894&sm=3883"
+hreflang="fr">http://www.les-artisteschamalierois.odavia.com/pro_page.asp?page=3894&sm=3883</a></dd>
+
+
+
+
+</dl>
+
+
+<p>Pour consulter la liste complète des références internet, veuillez vous rendre sur la page "Revue du Web"</p>
+
+
       </article>
       
       

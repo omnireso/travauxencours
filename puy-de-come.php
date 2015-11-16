@@ -12,21 +12,21 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <title>Puy de Côme volcan d'Auvergne de la chaîne des puys d'Auvergne par Philippe Morel</title>
- <meta name="description" content="Tableau du Puy de Come avec au premier plan la plaine, au second plan la forêt, eu à l'arrière-plan le Puy.">
+ <meta name="description" content="Tableau du Puy de Come avec au premier plan la plaine, au second plan la forêt, et à l'arrière-plan le Puy.">
 <link rel="icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="publisher" href="https://plus.google.com/+Philmorel63"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:locale:alternate" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Peintre" />
-<meta property="og:description" content="Tableaux et peintures" />
+<meta property="og:title" content="Puy de Côme Auvergne" />
+<meta property="og:description" content="Volcan d'Auvergne" />
 <meta property="og:url" content="http://www.philmorel.com/" />
 <meta property="og:site_name" content="Philippe Morel" />
 <meta property="article:publisher" content="https://www.facebook.com/Philippe-Morel-1426386287685982/" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Peintures et tableaux de paysages"/>
-<meta name="twitter:title" content="Peintures d'Auvergne"/>
+<meta name="twitter:description" content="Paysage d'Auvergne avec un volcan"/>
+<meta name="twitter:title" content="Puy de Côme"/>
 <meta name="twitter:site" content="@philmorel"/>
 
 <link rel="next" href="http://www.philmorel.com/montpeyroux.php" />
@@ -109,7 +109,7 @@
 
 <div id="tableau-grid"><div class="tableau-cell"><figure>
 
-<img src="auvergne/puy-de-come_b.jpg" width="" height="" alt="Puy de Côme en Auvergne">
+<img src="auvergne/puy-de-come_b.jpg" width="1000" height="798" alt="Puy de Côme en Auvergne">
 
 <figcaption>Puy de Côme</figcaption></figure></div></div>
 
