@@ -71,7 +71,7 @@
               <ul><li><a href="http://www.philmorel.com/philippe-morel.php" hreflang="fr">A propos</a>
                    </li>
 	                 <li><a href="http://www.philmorel.com/tableaux.php" hreflang="fr" title="galerie de tableaux" class="active">Tableaux et peintures</a></li>
-	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">ActualitÃ©é et expositions</a></li>
+	     	            <li><a href="http://www.philmorel.com/actu.php" hreflang="fr" title="expositions passées et à venir">Actualité et expositions</a></li>
 		                <li><a href="http://www.philmorel.com/presse.php" hreflang="fr" title="article de presse et récompenses">Revue de presse</a></li>
                     <li><a href="http://www.philmorel.com/contact.php" hreflang="fr" title="formulaire de contact">Contactez Philippe Morel</a></li>
                      <li><a href="http://www.philmorel.com/livredor.php" hreflang="fr" title="Laissez vos impressions">Livre d'Or</a></li>
