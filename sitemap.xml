@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://www.philmorel.com/</loc>
+</url>
+
+
+<url><loc>http://www.philmorel.com/matin-limagne.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/matin-limagne_b.jpg</image:loc><image:title>Matin en Limagne</image:title><image:caption>Tableau d'un paysage de la Limagne</image:caption></image:image>
+</url>
+
+<url><loc>http://www.philmorel.com/saint-genes-champanelle.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/st-genes_b.jpg</image:loc><image:title>Saint Genès Champanelle en Auvergne</image:title><image:caption>Tableau de Saint-Genès-Champanelle campagne Clermontoise</image:caption></image:image>
+</url>
+
+
+<url><loc>http://www.philmorel.com/tournesols.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/tournesols_b.jpg</image:loc><image:title>Champ de tournesols en Auvergne</image:title><image:caption>Tableau de paysage auvergnat tournesols</image:caption></image:image>
+</url>
+
+<url><loc>http://www.philmorel.com/montmorin.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/montmorin_b.jpg</image:loc><image:title>Montmorin paysage d'Auvergne</image:title><image:caption>Valons et monts Auvergnats château de Montmorin</image:caption></image:image>
+</url>
+
+
+<url><loc>http://www.philmorel.com/sauterre.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/sauterre_b.jpg</image:loc><image:title>Pierrier de Sauterre carrière abandonnée</image:title><image:caption>Peinture de la carrière de Sauterre</image:caption></image:image>
+</url>
+
+
+<url><loc>http://www.philmorel.com/puy-de-dome.php</loc>
+<image:image><image:loc>http://www.philmorel.com/auvergne/puy-de-dome_b.jpg</image:loc><image:title>Pierrier de Sauterre carrière abandonnée</image:title><image:caption>Peinture de la carrière de Sauterre</image:caption></image:image></url>
+
+
+
+<url><loc>http://www.philmorel.com/tableaux.php</loc></url>
+
+
+
+</urlset>
