@@ -79,3 +79,44 @@ footer {
     position: relative;
     clear:both;
 }
+
+/* formulaire */
+.formulaire {
+  -webkit-border-radius: 3px;
+  border-radius: 3px; 
+  border-top: 1px solid #FFF;
+  border-left: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
+  border-right: 1px solid #FFF;
+  background-color:#d2dce0;
+  font-size:14px;
+  color:#3d4c64;
+  padding:5px;
+  min-height:10px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+}
+.formulaire:hover, .formulaire:focus{
+  background-color:#FFF;
+  border: 1px solid #FFF;
+  color:#bc172e;
+  /* Ombrage externe */
+  -webkit-box-shadow: 0px 0px 8px #FFF;
+  -moz-box-shadow: 0px 0px 8px #FFF;
+  box-shadow: 0px 0px 8px #FFF;
+}
+
+fieldset{border:solid 1px #666;padding:10px;}
+legend{color:#666;font-size:24px;font-weight:normal;}
+
+.picto_vide{padding:1px 5px 1px 5px;}
+
+.picto_prenom{background-image:url(); }
+.picto_prenom:hover{background-image:url();}
+
+/*  <div itemscope itemtype="http://schema.org/PostalAddress"> */
+/* <span itemprop='telephone'> */
+/* label for="form_adresse">Adresse</label><input class="contact_form picto_adresse" type="text" id="form_adresse" name="adresse" value="" /> */
+
